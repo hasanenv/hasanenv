@@ -1,4 +1,83 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hi, I'm Hasan  
+### DevOps Engineer | AWS • Linux • Bash • Docker  
+*Learning. Building. Repeating 🔁*  
+
+<a href="https://www.linkedin.com/in/hasankamranenv/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+</a>
+
+<br/><br/>
+
+<!-- Certifications -->
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Practitioner"/>
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Solutions Architect Associate"/>
+
+</div>
+
+
+
+## 🚀 Featured Projects
+
+### [📦 Flask + Redis App with Docker Compose](https://github.com/hasanenv/flask-redis-app-docker)
+A containerised Flask web app connected to a Redis database using Docker Compose.  
+Counts and stores page visits, with data persisted using Docker volumes.
+
+**Tech:** Flask • Redis • Docker • Docker Compose  
+
+---
+
+### [🔍 IAM Auditor Tool](https://github.com/hasanenv/iam-auditor-tool)
+A Bash-based tool that audits AWS accounts for users, roles, and groups with `AdministratorAccess`.  
+Generates a detailed report, uploads it to S3, and sends an SNS alert for high-privilege findings.
+
+**Tech:** AWS CLI • Bash • S3 • SNS  
+
+---
+
+### [🐧 Linux Bandit Challenge Guide](https://github.com/hasanenv/linux-bandit-challenge-guide)
+A complete walkthrough for all levels of OverTheWire: Bandit.  
+Teaches essential Linux commands through practical challenges.
+
+**Tech:** Linux • Bash • SSH  
+
+---
+
+### [🌐 EC2 NGINX Server Deployment](https://github.com/hasanenv/ec2-nginx-server)
+Deployed an NGINX web server on AWS EC2, linked it with a custom Route 53 domain, and secured it using Let’s Encrypt SSL for HTTPS access.
+
+**Tech:** AWS EC2 • Route 53 • NGINX • SSL/TLS  
+
+---
+
+### [⚔️ Bash Battle Arena Scripts](https://github.com/hasanenv/bash-battle-arena-scripts)
+My solutions to the Bash Battle Arena, which is a gamified challenge that builds automation and scripting skills for DevOps workflows.
+
+**Tech:** Bash • Linux
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanenv&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎓 Certifications
+
+<div align="center">
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+</div>
+
+
+
+
 
 <!--
 **hasanenv/hasanenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
