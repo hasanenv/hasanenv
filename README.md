@@ -10,9 +10,8 @@
 
 <br/><br/>
 
-<!-- Certifications -->
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Practitioner"/>
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Solutions Architect Associate"/>
+<img src="./images/certs/ccp.png" width="120"/>
+<img src="./images/certs/saa.png" width="120"/>
 
 </div>
 
