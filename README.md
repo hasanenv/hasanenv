@@ -7,9 +7,7 @@
 <a href="https://www.linkedin.com/in/hasankamranenv/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a>
-
 <br/><br/>
-
 <img src="./images/certs/ccp.png" width="120"/>
 <img src="./images/certs/saa.png" width="120"/>
 
