@@ -8,11 +8,21 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a>
 <br/><br/>
-<img src="./images/certs/ccp.png" width="120"/>
-<img src="./images/certs/saa.png" width="120"/>
+<img src="./images/certs/ccp.png" width="105"/>
+<img src="./images/certs/saa.png" width="105"/>
 
 </div>
 
+## 💡 About Me
+
+I’m a DevOps Engineer passionate about building practical skills in Linux, cloud, and automation, while breaking into tech with no previous background.
+
+Right now I’m focused on:
+
+- AWS automation and auditing  
+- Containerisation with Docker  
+- Bash scripting for real-world DevOps workflows  
+- CI/CD pipelines and automation 
 
 
 ## 🚀 Featured Projects
@@ -62,16 +72,6 @@ My solutions to the Bash Battle Arena, which is a gamified challenge that builds
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🎓 Certifications
-
-<div align="center">
-
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-</div>
-
 
 
 
