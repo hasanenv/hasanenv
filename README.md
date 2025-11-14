@@ -15,14 +15,14 @@
 
 ## 💡 About Me
 
-I’m a DevOps Engineer passionate about building practical skills in Linux, cloud, and automation, while breaking into tech with no previous background.
+I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and automation by implementing projects that demonstrate scalable, secure, and maintainable solutions.
 
-Right now I’m focused on:
+**Right now I’m focused on:**
 
-- AWS automation and auditing  
-- Containerisation with Docker  
-- Bash scripting for real-world DevOps workflows  
-- CI/CD pipelines and automation 
+- Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, EKS)
+- Building and managing containerised applications using Docker
+- Writing Bash scripts to automate real-world DevOps and cloud workflows
+- Learning and implementing CI/CD pipelines for deployment and infrastructure automation
 
 ## 🔧 Tech stack
 
