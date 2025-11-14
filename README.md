@@ -24,6 +24,28 @@ Right now I’m focused on:
 - Bash scripting for real-world DevOps workflows  
 - CI/CD pipelines and automation 
 
+## 🔧 Tech stack
+
+<!-- Core -->
+![Linux](https://img.shields.io/badge/Linux-2B2B2B?style=for-the-badge&logo=linux&logoColor=white&color=0B7285)
+![Bash](https://img.shields.io/badge/Bash-%23212121?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0B7285)
+![Git](https://img.shields.io/badge/Git-%23212121?style=for-the-badge&logo=git&logoColor=white&color=0B7285)
+
+<!-- Containers & caching -->
+![Docker](https://img.shields.io/badge/Docker-%23212121?style=for-the-badge&logo=docker&logoColor=white&color=F08A24)
+![Redis](https://img.shields.io/badge/Redis-%23212121?style=for-the-badge&logo=redis&logoColor=white&color=F08A24)
+
+<!-- Cloud (AWS core services) -->
+![AWS](https://img.shields.io/badge/AWS-%23212121?style=for-the-badge&logo=amazon-aws&logoColor=white&color=6F4CFF)
+![EC2](https://img.shields.io/badge/EC2-%23212121?style=for-the-badge&logo=amazon-ec2&logoColor=white&color=6F4CFF)
+![S3](https://img.shields.io/badge/S3-%23212121?style=for-the-badge&logo=amazon-s3&logoColor=white&color=6F4CFF)
+![Lambda](https://img.shields.io/badge/Lambda-%23212121?style=for-the-badge&logo=aws-lambda&logoColor=white&color=6F4CFF)
+![VPC](https://img.shields.io/badge/VPC-%23212121?style=for-the-badge&logo=aws&logoColor=white&color=6F4CFF)
+![IAM](https://img.shields.io/badge/IAM-%23212121?style=for-the-badge&logo=amazon-aws&logoColor=white&color=6F4CFF)
+![RDS](https://img.shields.io/badge/RDS-%23212121?style=for-the-badge&logo=mysql&logoColor=white&color=6F4CFF)
+![ECR](https://img.shields.io/badge/ECR-%23212121?style=for-the-badge&logo=amazon-ecs&logoColor=white&color=6F4CFF)
+![EKS](https://img.shields.io/badge/EKS-%23212121?style=for-
+
 
 ## 🚀 Featured Projects
 
