@@ -48,11 +48,10 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 
 ## 🚀 Featured Projects
 
-### [📦 Flask + Redis App with Docker Compose](https://github.com/hasanenv/flask-redis-app-docker)
-A containerised Flask web app connected to a Redis database using Docker Compose.  
-Counts and stores page visits, with data persisted using Docker volumes.
+### [🌐 AWS ALB NGINX Architecture](https://github.com/hasanenv/aws-alb-nginx-architecture)
+Built a production-style AWS architecture featuring an Application Load Balancer, private and public subnets, and HTTPS secured via ACM. Demonstrates end-to-end traffic routing, network security, and scalable design with Route 53 DNS management.
 
-**Tech:** Flask • Redis • Docker • Docker Compose  
+**Tech:** AWS • EC2 • ALB • Route 53 • ACM • VPC • NGINX
 
 ---
 
@@ -64,25 +63,21 @@ Generates a detailed report, uploads it to S3, and sends an SNS alert for high-p
 
 ---
 
+### [📦 Flask + Redis App with Docker Compose](https://github.com/hasanenv/flask-redis-app-docker)
+A containerised Flask web app connected to a Redis database using Docker Compose.  
+Counts and stores page visits, with data persisted using Docker volumes.
+
+**Tech:** Flask • Redis • Docker • Docker Compose  
+
+---
+
 ### [🐧 Linux Bandit Challenge Guide](https://github.com/hasanenv/linux-bandit-challenge-guide)
-A complete walkthrough for all levels of OverTheWire: Bandit.  
-Teaches essential Linux commands through practical challenges.
+My complete beginner-friendly walkthrough of all levels of OverTheWire: Bandit.  
+Covers essential Linux commands through hands-on, practical challenges.
 
 **Tech:** Linux • Bash • SSH  
 
 ---
-
-### [🌐 EC2 NGINX Server Deployment](https://github.com/hasanenv/ec2-nginx-server)
-Deployed an NGINX web server on AWS EC2, linked it with a custom Route 53 domain, and secured it using Let’s Encrypt SSL for HTTPS access.
-
-**Tech:** AWS EC2 • Route 53 • NGINX • SSL/TLS  
-
----
-
-### [⚔️ Bash Battle Arena Scripts](https://github.com/hasanenv/bash-battle-arena-scripts)
-My solutions to the Bash Battle Arena, which is a gamified challenge that builds automation and scripting skills for DevOps workflows.
-
-**Tech:** Bash • Linux
 
 ## 📊 GitHub Stats
 
@@ -97,18 +92,3 @@ My solutions to the Bash Battle Arena, which is a gamified challenge that builds
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-<!--
-**hasanenv/hasanenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
