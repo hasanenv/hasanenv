@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Hasan  
-### DevOps Engineer | AWS • Linux • Bash • Docker  
+### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform
 *Learning. Building. Repeating 🔁*  
 
 <a href="https://www.linkedin.com/in/hasankamranenv/" target="_blank">
@@ -19,9 +19,10 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 
 **Right now I’m focused on:**
 
-- Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, ECS)
+- Gaining hands-on experience with core AWS services (EC2, S3, Lambda, VPC, IAM, RDS, ECS)
 - Building and managing containerised applications using Docker
 - Writing Bash scripts to automate real-world DevOps and cloud workflows
+- Provisioning and managing infrastructure as code using Terraform
 - Learning and implementing CI/CD pipelines for deployment and infrastructure automation
 
 ## 🔧 Tech stack
@@ -44,7 +45,10 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&cacheSeconds=3600)
 ![ECR](https://img.shields.io/badge/ECR-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
-![EKS](https://img.shields.io/badge/EKS-FF4F8B?style=for-the-badge&logo=kubernetes&logoColor=white&cacheSeconds=3600)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+## ⚡ Newest Project
+[![Most Recent Project](https://img.shields.io/badge/Most_Recent_Project-Click_Here-623CE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanenv/terraform-ec2-provisioning-setups/)
 
 ## 🚀 Featured Projects
 
@@ -60,6 +64,14 @@ A Bash-based tool that audits AWS accounts for users, roles, and groups with `Ad
 Generates a detailed report, uploads it to S3, and sends an SNS alert for high-privilege findings.
 
 **Tech:** AWS CLI • Bash • S3 • SNS  
+
+---
+
+### [🌱 Terraform EC2 Provisioning Setups](https://github.com/hasanenv/terraform-ec2-provisioning-setups/)
+My hands-on project for provisioning and managing EC2 instances using Terraform.  
+Covers infrastructure-as-code, AWS core services, and automation best practices.
+
+**Tech:** Terraform • AWS • EC2 • VPC • IAM
 
 ---
 
