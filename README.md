@@ -19,7 +19,7 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 
 **Right now I’m focused on:**
 
-- Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, EKS)
+- Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, ECS)
 - Building and managing containerised applications using Docker
 - Writing Bash scripts to automate real-world DevOps and cloud workflows
 - Learning and implementing CI/CD pipelines for deployment and infrastructure automation
