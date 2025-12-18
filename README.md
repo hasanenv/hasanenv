@@ -48,14 +48,14 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## ⚡ Newest Project
-[![Most Recent Project](https://img.shields.io/badge/Most_Recent_Project-Click_Here-623CE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanenv/terraform-ec2-provisioning-setups/)
+[![Most Recent Project](https://img.shields.io/badge/Most_Recent_Project-Click_Here-623CE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanenv/terraform-aws-secure-ha-webapp)
 
 ## 🚀 Featured Projects
 
-### [🌐 AWS ALB NGINX Architecture](https://github.com/hasanenv/aws-alb-nginx-architecture)
-Built a production-style AWS architecture featuring an Application Load Balancer, private and public subnets, and HTTPS secured via ACM. Demonstrates end-to-end traffic routing, network security, and scalable design with Route 53 DNS management.
+### [🏗️ Terraform-Provisioned AWS Web App (ALB + Auto Scaling)](https://github.com/hasanenv/terraform-aws-webapp-infra)
+Provisioned a reusable AWS web infrastructure baseline using Terraform, defining a standard pattern for running web workloads behind an ALB with Auto Scaling and HTTPS enforced via ACM. Uses private EC2 instances with least-privilege IAM roles to securely serve content from S3. Demonstrates secure ingress, scalable compute, and production-style AWS infrastructure managed as code.
 
-**Tech:** AWS • EC2 • ALB • Route 53 • ACM • VPC • NGINX
+**Tech:** AWS • IAM • S3 • EC2 • ALB • Route 53 • ACM • VPC • NGINX
 
 ---
 
@@ -64,14 +64,6 @@ A Bash-based tool that audits AWS accounts for users, roles, and groups with `Ad
 Generates a detailed report, uploads it to S3, and sends an SNS alert for high-privilege findings.
 
 **Tech:** AWS CLI • Bash • S3 • SNS  
-
----
-
-### [🌱 Terraform EC2 Provisioning Setups](https://github.com/hasanenv/terraform-ec2-provisioning-setups/)
-My hands-on project for provisioning and managing EC2 instances using Terraform.  
-Covers infrastructure-as-code, AWS core services, and automation best practices.
-
-**Tech:** Terraform • AWS • EC2 • VPC • IAM
 
 ---
 
