@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Hasan  
-### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform
+### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform • CI/CD
 *Learning. Building. Repeating 🔁*  
 
 <a href="https://www.linkedin.com/in/hasankamranenv/" target="_blank">
@@ -26,11 +26,11 @@ I’m a DevOps Engineer focused on mastering Linux, cloud infrastructure, and au
 - Learning and implementing CI/CD pipelines for deployment and infrastructure automation
 
 ## 🔧 Tech stack
-
 <!-- Core -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <!-- Containers & caching -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,6 +72,14 @@ A containerised Flask web app connected to a Redis database using Docker Compose
 Counts and stores page visits, with data persisted using Docker volumes.
 
 **Tech:** Flask • Redis • Docker • Docker Compose  
+
+---
+
+### [⚙️ CI/CD Pipelines](https://github.com/hasanenv/ci-cd-pipelines)
+A collection of practical CI and CI/CD pipelines built with GitHub Actions.  
+Covers Docker image build and push workflows and Terraform validation pipelines, with a focus on clear automation boundaries and safe defaults.
+
+**Tech:** GitHub Actions • YAML • Docker • Terraform • CI/CD
 
 ---
 
