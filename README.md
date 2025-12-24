@@ -76,8 +76,8 @@ Counts and stores page visits, with data persisted using Docker volumes.
 ---
 
 ### [⚙️ CI/CD Pipelines](https://github.com/hasanenv/ci-cd-pipelines)
-A collection of practical CI and CI/CD pipelines built with GitHub Actions.  
-Covers Docker image build and push workflows and Terraform validation pipelines, with a focus on clear automation boundaries and safe defaults.
+A CI/CD repo with two focused pipelines built using GitHub Actions.
+One handles Docker image build and push, and the other validates Terraform configuration.
 
 **Tech:** GitHub Actions • YAML • Docker • Terraform • CI/CD
 
