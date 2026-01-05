@@ -92,12 +92,8 @@ Covers essential Linux commands through hands-on, practical challenges.
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanenv&theme=github-dark" width="75%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanenv&theme=github-dark" width="75%" />
 
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanenv&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanenv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
