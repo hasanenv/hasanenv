@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hasan  
 ### DevOps Engineer | AWS • Linux • Bash • Docker • Terraform • CI/CD
-*Building and operating cloud infrastructure on AWS*  
+*Building and automating cloud infrastructure on AWS*  
 
 <a href="https://www.linkedin.com/in/hasankamranenv/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
